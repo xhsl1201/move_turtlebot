@@ -24,5 +24,5 @@
    ROS2 통신 구조에 적합한 제어 시스템으로 구성
 
 4. 핵심 소스 코드 (본 패키지의 핵심 로직!)
-- [k_move_control.py](./khj_move_turtlebot/k_move_turtle_control.py)
+- [k_move_control.py](./khj_move_turtlebot/k_move_control.py)
 - 토픽, 서비스, 액션 통신 및 GUI 제어 로직이 포함된 메인 소스 코드
